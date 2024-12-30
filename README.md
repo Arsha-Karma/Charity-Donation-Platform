@@ -138,3 +138,4 @@ http://localhost:3000
 
 You should now see the **Charity Donation Tracking System** frontend, where users can donate, register, and track charity transactions.
 
+Video Link: https://youtu.be/CtOnuUdp4Nc?si=5HAAzvSF9a7qgYd1
